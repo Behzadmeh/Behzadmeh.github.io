@@ -31,9 +31,9 @@ One player acts out a word, their team guesses, and the clock is ticking. Pick a
 - Works offline, one phone for the whole group
 - Free with ads; Premium removes all ads with a one-time purchase
 
-<a href="https://play.google.com/store/apps/details?id=PANTOMANIA_PACKAGE_NAME"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
+<a href="https://play.google.com/store/apps/details?id=org.rayanak.pantomania"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
 
-[Privacy policy](PANTOMANIA_PRIVACY_POLICY_URL)
+[Privacy policy](https://sites.google.com/view/pantomania/privacy-policy)
 
 ---
 
@@ -45,9 +45,9 @@ Kids practise the spelling of their school words in short, encouraging sessions.
 - Practice organised in units
 - First unit free; full access with a yearly subscription
 
-<a href="https://play.google.com/store/apps/details?id=SPELLINGSTAR_PACKAGE_NAME"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
+<a href="https://play.google.com/store/apps/details?id=org.rayanak.spellingstar"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
 
-[Privacy policy](SPELLINGSTAR_PRIVACY_POLICY_URL)
+[Privacy policy](https://sites.google.com/view/spelling-star/home)
 
 ---
 
@@ -61,8 +61,8 @@ We collect as little data as possible. None of our apps require an account.
 
 | App | Privacy policy |
 |---|---|
-| Pantomania | [Read the policy](PANTOMANIA_PRIVACY_POLICY_URL) |
-| Spelling Star | [Read the policy](SPELLINGSTAR_PRIVACY_POLICY_URL) |
+| Pantomania | [Read the policy](https://sites.google.com/view/pantomania/privacy-policy) |
+| Spelling Star | [Read the policy](https://sites.google.com/view/spelling-star/home) |
 
 ---
 
